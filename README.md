@@ -1,3 +1,3 @@
 ### Live-Weather-Widget-Spline-Art:
 
-![widget](bottle.PNG)
+![widget](weather widget.PNG)
